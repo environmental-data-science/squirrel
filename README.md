@@ -1,7 +1,7 @@
 # squirrel
 An basic repository with an environment and .gitignore
 
-## Central Park Squirrel Census
+## NYC Park Squirrel Census
 
 ![squirrel!](https://imgs.6sqft.com/wp-content/uploads/2018/10/03124715/squirrel-Central-Park.jpg)
 
