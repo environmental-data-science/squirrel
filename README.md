@@ -1,5 +1,4 @@
-# Folium Tutorial ![image](https://github.com/annieradams/squirrel/assets/108312152/6a0e8c88-2e25-43d0-b8e1-7a8fb8b5971a)
-
+# Folium Tutorial <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="drawing" width="20"/>
 
 # EDS 217 Group Project
 
