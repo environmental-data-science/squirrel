@@ -1,6 +1,5 @@
-# Folium
-An basic repository with an environment and .gitignore
-
+# Folium Tutorial
+This is a description and tutorial of the package Folium created as a group project for EDS 217. 
 ## Central Park Squirrel Census
 
 ![squirrel!](https://imgs.6sqft.com/wp-content/uploads/2018/10/03124715/squirrel-Central-Park.jpg)
