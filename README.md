@@ -5,7 +5,7 @@
 #### Contributors: [Annie Adams](https://github.com/annieradams), [Mariam Garcia](https://github.com/mariamkg00), [Vanessa Salgado](https://github.com/Vanessa-Salgado), [Hazel Vaquero](https://github.com/hazelvaq) 
 
 This is a description and tutorial of the package Folium created as a group project for EDS 217. 
-## Central Park Squirrel Census
+### Central Park Squirrel Census
 
 
 
