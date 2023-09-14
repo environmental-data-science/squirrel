@@ -1,4 +1,4 @@
-# Folium Tutorial <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="drawing" width="20"/>
+# Folium Tutorial <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="drawing" width="40"/>
 
 # EDS 217 Group Project
 
