@@ -1,4 +1,4 @@
-# Folium Tutorial![image](https://github.com/annieradams/squirrel/assets/108312152/6a0e8c88-2e25-43d0-b8e1-7a8fb8b5971a)
+# Folium Tutorial ![image](https://github.com/annieradams/squirrel/assets/108312152/6a0e8c88-2e25-43d0-b8e1-7a8fb8b5971a)
 
 
 # EDS 217 Group Project
