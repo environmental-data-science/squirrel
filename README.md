@@ -9,10 +9,10 @@ For this project we explored Folium, a Python library that that combines data wr
 
 This is a description and tutorial of the package Folium created as a group project for EDS 217. 
 ### Central Park Squirrel Census
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
 
 
-
-### California Earthquakes 1769 - 2015 with magnitudes greater then 5 
+### California Earthquakes 1769 - 2015 with magnitudes greater than 5 
 
 https://maps-cnra-cadoc.opendata.arcgis.com/datasets/cadoc::cgs-map-sheet-48-historic-earthquakes-1769-to-2015-california-magnitude-5-0-plus/explore?location=37.380031%2C-119.985577%2C7.27
 
