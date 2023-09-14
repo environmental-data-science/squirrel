@@ -1,4 +1,4 @@
-# squirrel
+# Folium
 An basic repository with an environment and .gitignore
 
 ## Central Park Squirrel Census
