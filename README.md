@@ -4,6 +4,9 @@
 
 #### Contributors: [Annie Adams](https://github.com/annieradams), [Mariam Garcia](https://github.com/mariamkg00), [Vanessa Salgado](https://github.com/Vanessa-Salgado), [Hazel Vaquero](https://github.com/hazelvaq) 
 
+##  Folium
+For this project we explored Folium, a Python library that that combines data wrangling potential in Python and the mapping strengths of the Leaflet.js library. We used Folium to explore data vizualizations using Jupyter Notebooks. Folium was developed in order to enable easy data visualization with geospatial analysis. It helps make interactive geographic visualizations that can be shared as a website. Folium helps transform data in pandas into interactive Leaflet maps.
+
 This is a description and tutorial of the package Folium created as a group project for EDS 217. 
 ### Central Park Squirrel Census
 
