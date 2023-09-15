@@ -1,40 +1,28 @@
-# squirrel
-An basic repository with an environment and .gitignore
+# Folium Tutorial <img src="https://python-visualization.github.io/folium/latest/_images/folium_logo.png" alt="drawing" width="40"/>
 
-## Central Park Squirrel Census
+# EDS 217 Group Project
 
-![squirrel!](https://imgs.6sqft.com/wp-content/uploads/2018/10/03124715/squirrel-Central-Park.jpg)
+#### Contributors: [Annie Adams](https://github.com/annieradams), [Mariam Garcia](https://github.com/mariamkg00), [Vanessa Salgado](https://github.com/Vanessa-Salgado), [Hazel Vaquero](https://github.com/hazelvaq) 
 
-https://www.thesquirrelcensus.com
+##  Folium
+For this project we explored Folium, a Python library that that combines data wrangling potential in Python and the mapping strengths of the Leaflet.js library. We used Folium to explore data vizualizations using Jupyter Notebooks. Folium was developed in order to enable easy data visualization with geospatial analysis. It helps make interactive geographic visualizations that can be shared as a website. Folium helps transform data in pandas into interactive Leaflet maps.
 
-### Explore the data
-
-The survey data was originally collected and stored in to files available at this link:
-
-[https://www.thesquirrelcensus.com/data](https://www.thesquirrelcensus.com/data)
-
-For this exercise, we will use an integrated `.csv` file that combines data and is a little more structured than the raw `.csv`. This file was downloaded from [kaggle.com](http://www.kaggle.com) at this link:
-
-[2018 survey data on Kaggle](https://www.kaggle.com/datasets/dominoweir/nyc-2018-squirrel-census)
-
-The downloaded file is already added to the class repository in the `data/` folder as as `2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv`. You can copy this folder to your new repository on your local machine
-
-### Setting up for some squirrely analyses:
-
-1. Create a short name for your group and a new repository for this exercise. Clone the repo to your local machines. 
-
-1. Load the combined datafile (either using the url or from your repository's `../data` directory) using `pd.read_csv()`.
-
-1.  Use standard `df.info()`, `df.head()`, `df.describe()` to explore the data. 
-
-1. Read over the user guide here to understand what the various columns contain.
-
-[Survey Data User Guide](https://www.dropbox.com/s/cs293zzz1li79nn/user-guide_data-sets_nyc-open-data-week-multi-park-squirrel-count.pdf?dl=0)
-
-Additional information on the survey and stories are available here:
-
-[https://www.thesquirrelcensus.com/data](https://www.thesquirrelcensus.com/data)
-
-1. Work together to make a new `.ipynb` in your repo that contains an analysis and simple visualization of the data!
+This is a description and tutorial of the package Folium created as a group project for EDS 217. 
+### Central Park Squirrel Census
+https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw
 
 
+### California Earthquakes 1769 - 2015 with magnitudes greater than 5 
+
+https://maps-cnra-cadoc.opendata.arcgis.com/datasets/cadoc::cgs-map-sheet-48-historic-earthquakes-1769-to-2015-california-magnitude-5-0-plus/explore?location=37.380031%2C-119.985577%2C7.27
+
+This dataset was used to make a heatmap, and we narrowed the focus point to only be in California, as the data panned out to neighboring states. Each earthquake has their own unique 'Object ID', along with the coordinates in which the epicenter was found, and the magnitude. 
+
+## Citations
+“CGS Map Sheet 48: Historic Earthquakes, 1769 to 2015 - California (Magnitude 5.0-Plus).” California Open Data, 11 Sept. 2023, data.ca.gov/dataset/cgs-map-sheet-48-historic-earthquakes-1769-to-2015-california-magnitude-5-0-plus. 
+
+“Folium.” Folium - Folium 0.1.Dev1+g57e8eae Documentation, python-visualization.github.io/folium/latest/index.html. 
+
+Weir, Domino. “NYC Squirrel Census 2018.” Kaggle, 29 Aug. 2022, www.kaggle.com/datasets/dominoweir/nyc-2018-squirrel-census. Accessed 14 Sept. 2023. 
+
+Wells, Ryan. “Plotting Geographical Heatmaps with Python Folium.” Wellsr.Com, 19 Aug. 2022, wellsr.com/python/plotting-geographical-heatmaps-with-python-folium-module/. 
